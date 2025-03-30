@@ -1,5 +1,3 @@
-# Instant-Medication-FRONT-END-
-This is a websie that has been done for pratice !!!! (my first repositary)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,7 +68,7 @@ This is a websie that has been done for pratice !!!! (my first repositary)
         input[type="text"],
         input[type="password"],
         select {
-            width: 100%;
+            width: 98%;
             padding: 12px;
             margin-bottom: 20px;
             border: none;
